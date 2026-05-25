@@ -1,10 +1,10 @@
 ### Hi, I'm Jahan.
 
-Computer Engineering student at UBC Okanagan. 
+4th Year Computer Engineering @UBC Okanagan. 
 I love solving problems at the intersection of product, systems and engineering.
 
 **What I'm working on**
--Tech & AI Integration @UBCo Parking Services
+: Tech & AI Integration @UBCo Parking Services
 
 **Some things I've built**
 - [La Liga Stats](https://github.com/shahjahan0011/la-liga-stats) — Player stats explorer with 30+ users in week 1
