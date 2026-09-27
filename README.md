@@ -7,7 +7,7 @@ I love solving problems at the intersection of product, systems and engineering.
 : Tech & AI Integration @UBCo Parking Services
 
 **Some things I've built**
-- [Parking Avaibility Widget] @ [parking.ok.ubc.ca](parking.ok.ubc.ca) - Used by 10000+ students commuting to UBCO
+- Parking Avaibility Widget @ [parking.ok.ubc.ca](https://parking.ok.ubc.ca) - Used by 10000+ students commuting to UBCO
 - [La Liga Stats](https://laliga-insights.vercel.app/) — Player stats explorer with 30+ users in week 1
 - [LavaLock](https://github.com/shahjahan0011/lavalock) — SHA-256 entropy simulation inspired by Cloudflare's lava wall
 - [StopPi&Go](https://github.com/shahjahan0011/stoppiandgo) — Embedded C++ traffic controller on Raspberry Pi + Arduino, 98% uptime
